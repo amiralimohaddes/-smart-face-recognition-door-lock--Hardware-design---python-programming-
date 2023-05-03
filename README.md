@@ -1,2 +1,5 @@
 #  smart face recognition door lock (Hardware design & python programming)
  (Hardware design & python programming)
+![photo_top](photo_top.jpg)
+![photo_Buttom](photo_Buttom.jpg)
+![photo_schematics](schematics.jpg)
